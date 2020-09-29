@@ -10,7 +10,7 @@
 
 <code>👋🏽 Entre em contato!</code>
 
-[![Facebook Badge](https://img.shields.io/badge/-Kadu_Floresta-lightblue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/kadu.floresta)](https://https://www.facebook.com/kadu.floresta)
+[![Facebook Badge](https://img.shields.io/badge/-Kadu_Floresta-lightblue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/kadu.floresta)](https://www.facebook.com/kadu.floresta)
 [![Twitter Badge](https://img.shields.io/badge/-@kadu_kururu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kadu_kururu)](https://twitter.com/kadu_kururu)
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Kadu_Floresta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadufloresta/)](https://www.linkedin.com/in/kadufloresta/)
